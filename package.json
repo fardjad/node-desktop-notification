@@ -1,0 +1,24 @@
+{
+  "name": "desktop-notification",
+  "preferGlobal": "true",
+  "version": "0.0.1368041573450",
+  "author": "Fardjad Davari <public@fardjad.com>",
+  "description": "Native addon for displaying desktop notifications",
+  "main": "lib/notification.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fardjad/node-desktop-notification.git"
+  },
+  "keywords": [
+    "native",
+    "desktop",
+    "notification",
+    "addon"
+  ],
+  "gypfile": true,
+  "readmeFilename": "README.md"
+}
